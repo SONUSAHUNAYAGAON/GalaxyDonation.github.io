@@ -1,1 +1,1 @@
-# GalaxyDonation.github.io
+# Donation.github.io
